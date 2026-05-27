@@ -123,11 +123,11 @@ int main() {
 ## OUTPUT
 $ ./sem.o 
 
-![Alt text](<../Screenshot at 2026-05-27 10-52-01.png>)
+![Alt text](<Screenshot at 2026-05-27 10-52-01.png>)
 
 $ ipcs
 
-![Alt text](<../Screenshot at 2026-05-27 10-53-44.png>)
+![Alt text](<Screenshot at 2026-05-27 10-53-44.png>)
 
 # RESULT:
 The program is executed successfully.
